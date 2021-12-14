@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ExtraStorageMigrator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ExtraStorageMigrator_jar</output-path>
+    <root id="archive" name="ExtraStorageMigrator.jar">
+      <element id="module-output" name="ExtraStorageMigrator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/snakeyaml-1.9.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/sqlite-jdbc-3.36.0.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
