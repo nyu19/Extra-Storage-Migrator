@@ -12,7 +12,7 @@
     </ol>
   </li>
 </ol>
-Voilà! When the program ends your whole playerdata is migrated from YAML to SQLite Storage.
+Voilà! When the program ends your whole playerdata is migrated from YAML to SQLite Storage.<br>
 <code>Note: Processing time may vary depending on the number of player data to migrate.</code>
 <br><br>
 <footer>
